@@ -19,9 +19,14 @@ This package contains functions that curl the most frequently used API endpoints
 ### Installation
 
 ``` r
-require(devtools)
+library(devtools)
 devtools::install_github("lawwu/livechatR")
-require(livechatR)
+library(livechatR)
+```
+or 
+``` r
+install.packages("livechatR")
+library(livechatR)
 ```
 
 

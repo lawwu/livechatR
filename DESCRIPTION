@@ -14,7 +14,7 @@ Imports:
     jsonlite,
     data.table,
     magrittr
-URL: https://github.com/lawwu/livechatR
+URL: https://github.com/lawwu/livechatR, https://cran.r-project.org/web/packages/livechatR/index.html
 License: GPL-2
 LazyData: TRUE
 RoxygenNote: 5.0.1
