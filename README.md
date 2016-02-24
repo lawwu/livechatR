@@ -12,6 +12,8 @@ This package contains functions that curl the most frequently used API endpoints
 - Easy parameterization and result parsing for the following API requests:
   - `agents/`: get the list of agents using `livechatGetAgents`.
   - `canned_responses/`: get the list of canned responses using `livechatGetCannedResponses`.
+  - `goals/`: get the list of goals using `livechatGetGoals`.
+  - `greetings/`: get the list of greetings using `livechatGetGreetings`.
   - `chats/`: get the list of chat sessions, raw chat text and events using `livechatGetChats`.
 
 ### Installation
