@@ -1,7 +1,8 @@
 Package: livechatR
 Type: Package
-Title: R wrapper for LiveChat's REST API
+Title: R Wrapper for LiveChat REST API
 Version: 0.1.0
+Date: 2016-02-24
 Author: Lawrence Wu
 Maintainer: Lawrence Wu <lwu@payoff.com>
 Description: Provides a wrapper around LiveChat's API. The R functions allow for
@@ -13,6 +14,7 @@ Imports:
     jsonlite,
     data.table,
     magrittr
-License: MIT + file LICENSE
+URL: https://github.com/lawwu/livechatR
+License: GPL-2
 LazyData: TRUE
 RoxygenNote: 5.0.1
