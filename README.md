@@ -51,7 +51,6 @@ In order to use the various methods of this package, we need to save the account
 
 ``` r
 > livechatGetAgents(account)
-...
 ```
 
 #### List Canned Responses
